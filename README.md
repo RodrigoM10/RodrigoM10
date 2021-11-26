@@ -14,7 +14,7 @@ Ahora si:
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Estoy aprendiendo React Native 🌱
 - Soy una persona divertida y bueno para trabajar en equipo 😀
-- Me gusta los animes, mangas... y claro la cultura geek ⚡😄
+<!-- - Me gusta los animes, mangas... y claro la cultura geek ⚡😄 -->
 
 Tecnologias:
 
