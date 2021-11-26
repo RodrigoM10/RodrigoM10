@@ -13,7 +13,7 @@ Ahora si:
 - He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelance. 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Estoy aprendiendo React Native 🌱
-- Soy una persona divertida y bueno para trabajar en equipo 😀
+- Soy una persona sociable, divertida y bueno para trabajar en equipo 😀
 <!-- - Me gusta los animes, mangas... y claro la cultura geek ⚡😄 -->
 
 Tecnologías:
