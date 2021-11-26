@@ -9,7 +9,7 @@
 
 
 Ahora si:
-- Estudiante avanzado de Ingenieria Quimica, me interesa la tecnologia, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
+- Estudiante avanzado de Ingeniería Química, me interesa la tecnología, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
 - He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelance. 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Estoy aprendiendo React Native 🌱
