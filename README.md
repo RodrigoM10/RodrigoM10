@@ -2,8 +2,6 @@
 
 ### 👋 Hola Comunidad !! Soy Rodrigo Mendoza y bienvenidos a mi GitHub.
 
- 📌 
- 
  [![linkedin_icon-icons com_59208](https://user-images.githubusercontent.com/85702199/143494917-8a994de2-e249-40dd-8149-f40384f2f425.png)](https://www.linkedin.com/in/rodrigo-mendoza10/) [![freelancer_logo_icon_171122](https://user-images.githubusercontent.com/85702199/143495206-32f6ea64-6d24-4479-9258-ed27ef730654.png)
 ](https://www.freelancer.com/u/rodrigomendoza10)
 
