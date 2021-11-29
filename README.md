@@ -2,13 +2,11 @@
 
 ### 👋 Hola Comunidad !! Soy Rodrigo Mendoza y bienvenidos a mi GitHub.
 
- 📌 Antes que nada :     
+ 📌 
  
  [![linkedin_icon-icons com_59208](https://user-images.githubusercontent.com/85702199/143494917-8a994de2-e249-40dd-8149-f40384f2f425.png)](https://www.linkedin.com/in/rodrigo-mendoza10/) [![freelancer_logo_icon_171122](https://user-images.githubusercontent.com/85702199/143495206-32f6ea64-6d24-4479-9258-ed27ef730654.png)
 ](https://www.freelancer.com/u/rodrigomendoza10)
 
-
-Ahora si:
 - Estudiante avanzado de Ingeniería Química, me interesa la tecnología, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
 - He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelance. 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
