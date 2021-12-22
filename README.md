@@ -6,7 +6,7 @@
 ](https://www.freelancer.com/u/rodrigomendoza10)
 
 - Estudiante avanzado de Ingeniería Química, me interesa la tecnología, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
-- He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelance. 💻 💪
+- He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelancer. 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Me estoy especializando en React.js 🌱
 - Soy una persona sociable, divertida y bueno para trabajar en equipo 😀
