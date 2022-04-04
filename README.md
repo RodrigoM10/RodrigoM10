@@ -6,11 +6,11 @@
 ](https://www.freelancer.com/u/rodrigomendoza10)
 
 - Estudiante avanzado de Ingeniería, me interesa la tecnología, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
-- He realizado proyectos front-end y back-end individuales y grupales, y actualmente trabajo en Freelancer. 💻 💪
+- He realizado proyectos front-end y back-end individuales y grupales 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Me estoy especializando en React.js 🌱
 - Soy una persona sociable, divertida y bueno para trabajar en equipo 😀
-<!-- - Me gusta los animes, mangas... y claro la cultura geek ⚡😄 -->
+<!-- - Me gusta hacer deporte 💪 y claro la cultura geek, animes y mangas... ⚡😄 -->
 
 Tecnologías:
 
