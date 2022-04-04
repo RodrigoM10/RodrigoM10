@@ -10,7 +10,6 @@
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Me estoy especializando en React.js 🌱
 - Soy una persona sociable, divertida y bueno para trabajar en equipo 😀
-- Me gusta hacer deporte 💪 y claro la cultura geek, animes y mangas... ⚡😄 
 
 Tecnologías:
 
