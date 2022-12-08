@@ -5,6 +5,7 @@
  [![linkedin_icon-icons com_59208](https://user-images.githubusercontent.com/85702199/143494917-8a994de2-e249-40dd-8149-f40384f2f425.png)](https://www.linkedin.com/in/rodrigo-mendoza10/)
 
 - Estudiante avanzado de Ingeniería, me interesa la tecnología, la innovación y los procesos de optimización. 🔧 ⚙️ 🛠️
+- Actualmente Tutor Fullstack en RollingCode School! Ayudando a expandir nuestra comunidad 😀🚀💻
 - He realizado proyectos front-end y back-end individuales y grupales 💻 💪
 - Estoy en busca de nuevos desafios y experiencia para crecer como desarrollador web. 🚀
 - Me estoy especializando en React.js 🌱
